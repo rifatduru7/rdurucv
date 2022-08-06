@@ -1,0 +1,11 @@
+{% assign footer = data.footer %}
+{% if footer and footer.display %}
+<footer class="footer">
+    <div class="text-center">
+        <small class="copyright">Güncelleme: {{ site.time | date: site.date_format | default: "%d-%m-%Y" }}
+            <span class="fa fa-heart"></span> By
+            <a href="https://rifatduru7.github.io/blog/" target="_blank"">Rıfat DURU Bilgi Teknolojileri CV</a>
+        </small>
+    </div>
+</footer>
+{% endif %}

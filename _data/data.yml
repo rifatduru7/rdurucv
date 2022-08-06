@@ -1,0 +1,319 @@
+basic:
+  name: Rıfat DURU
+  title: Bilgi Teknolojileri Danışmanı
+  avatar:
+    display: true
+    path: profile.png
+
+contact:
+  email: rifat@rifatduru.com
+  phone: +90 554 962 71 02
+  wechat: Askerlik - Yapıldı
+  whatsapp: Ehliyet - B
+  telegram: Uyruk - Türkiye Cumhuriyeti
+  website: rifatduru.com
+  medium: İstanbul/Türkiye
+  linkedin:
+  googlescholar: Medeni Hali - Bekar
+  researchgate: Doğum Tarihi - 27/08/1990
+  github: rifatduru7
+  gitlab:
+  bitbucket:
+  twitter:
+  stackoverflow:
+  quora:
+  goodreads:
+
+profile:
+  display: true
+  title: PROFIL
+  details: |
+    Bilgisayar ve internet ile tanıştığım ilk günden beri merakım hep "nasıl çalışıyora" yönelik oldu. Bu nedenle araştırmak reflex haline geldi. Bir konu hakkında bilgimi tazelemek yada bilmediğim soruların
+    cevaplarını hep araştırarak buldum. Kimi zaman bir kitaptan kimi zaman internetten. Okul tercihlerim de hep bu yönde oldu önce Lisede Bilgisayar Donanım, ardından Üniversite de Bilgisayar Programcılığı.
+    Üniversitede linux ve açık kaynak kodun önemini daha net kavradıktan sonra PHP öğrendim. PHP ile projeler yapma fırsatım oldu. Bu projeleri daha sonra PHP frameworklerine (Codeigniter, Laravel) taşıyarak kendi yönetim panelimi oluşturabildiğim bir
+    yapı haline getirdim. Üniversite sonrası bir süre meslek dışı işler yaptıktan sonra, mesleğim ile ilgili kendimi geliştirmeye devam ettim. Şirketlerin sistemlerini daha iyi kavrayabilmek için
+    kurslara gittim ve etkisini Intercombi firmasında çokça yaşadım. Open UI5 ile SAP ekranları tasarlayıp müşteri entegrasyonları yapmaya başladım. GCM Makine de tamamen atıl durumda kalmış Sunucu ve diğer cihazları yeniledim ve ağ ortamını güvenli hale getirdim
+    Yöneticiler tarafında daha önce külfet olarak düşünülen lisanslama, donanım yatırımları ilk gereksinim olarak görülmeye başlandı. Şuanda çalıştığım firma olan Smarttek Bilişim' de çok daha kapsamlı Bilişimin her alanında projeler uygulama geliştirme imkanı yakaladım. 
+    + aromatikboya.com.tr
+    + gcmmakine.com.tr
+    + rupaboya.com.tr
+    + saliksdanismanlik.com
+    + rabvevakfi.org
+
+
+experiences:
+  display: true
+  title: IS DENEYIMLERI
+  items:
+    - role: Bilgi Teknolojileri Danışmanı
+      time: 09.2020 - Hala çalışıyorum 
+      company: Smart Tek Bilişim Teknolojileri ve Yazılım Sistemleri
+      tag: Sürekli / Tam zamanlı
+      location: İstanbul
+      details: |
+        Müşterilerine Bilgi Teknolojileri alanında destek veren Smart Tek Bilişimde Bilgi Teknolojileri Danışmanı olarak işe başladım. 9 Firma ile başladığımız serüvenim 17 firmaya ulaştı.
+        Müşterilerimize son kullanıcı desteği, sunucu sisteminin kurulumu ve sistem kontrolü, yedekleme sistemi kurulumu ve kontrolü,Güvenlik altyapısının sürekli güncel tutulması, Firewall ve Hotspot' ın müşterilerde aktif olarak kullanılması, ERP desteği veriyoruz.
+        ETA ve CPM ERP son kullanıcı temel seviyede desteğini sağlamak ve Raporlamak destek paketlerimizin içeriğinde müşterilerimize sunduk.Sunucu, Firewall ve diğer network cihazlarından gelen log verileri tek bir yere toplanarak takibi ve izlemesi kolaylaştı. 
+        
+    - role: Bilgi İşlem Sorumlusu
+      time: 03.2019 - 09.2020 
+      company: GCM Makine
+      tag: Sürekli / Tam zamanlı
+      location: İstanbul
+      details: |
+        Bilgi işlem departmanının bir süredir kadrosu bulunmadığından dolayı takip edilmeyen lisanslar, güvenlik politikaları neticesinde saldırı alan sistem, 
+        Yeni nesil Lenovo sunucu, Yeni nesil Zyxel firewall, Rack tip Nas cihazı, Switch ve Access Pointler değiştirildi. Eski sürüm ESXI, Hyper V sanallaştırma teknolojisine taşındı.
+        Tek bir sunucuda bütün yapının kurulu olduğu eski yapı, Domain Controller, SQL Server, LogServer gibi farklı işlevler için farklı sanal sunucular kurularak yönetimi yedekleme konusunda çeviklik kazandırıldı.
+        Yedekleme alternatifleri oluşturuldu. Server Backup, Veeam, 2 farklı Cloud alanına yedekler alınarak yedeklilik seviyesi yükseltildi. Cloud kontrol destekli Access Pointler ile 
+        uzaktan kontrol sağlanabilir hale getirildi. Misafir ağı için Hotspot kurulumu yapıldı. PDKS sistemi giriş çıkışlar ve ARGE Tasarım merkezinin ortak takip edilebileceği şekilde tasarlandı.
+        Domain'e bağlı olmayan Client' lar domaine bağlandı ve gerekli Policyler uygulanarak iç ağdaki güvenli ortam sağlandı. File Server DFS namespace ile oluşturularak domain üzerinden kontrolü kolaylaştırıldı.
+        İzmir ve Bursa şubeleri arasında IPSEC VPN ile bağlantı kurularak kullanıcılar domaine dahil edildi. Loglama yapısı firewall, sunucular ve diğer network cihazlarından toplanarak
+        Logsign üzerinde takibi kolay ve raporlanabilir hale getirildi. Her ay ağ risklerini ölçmek için ağın güvenliğini test edebilecek araçlar kullanılarak kontrolü sağlandı. 
+        Firmanın ürettiği tekstil makinelerine Endüstriyel PC, Barkod yazıcı kurulumları yapıldı. Bu kurulumların akabinde makineden gelen metre ve kilogram verilerinin bilgisara PLC üzerindeki
+        bloktan doğru gelip gelmediği kontrol edildi. Mail sistemi paylaşımlı hosting üzerinden alınarak, Office 365 üzerine taşındı. Spam ve Pishing maillerden kullanıcıların en az etkilenir hale getirilmesi sağlandı.
+        Kumaş Kalite Kontrol Programının kurulumuna destek olundu. Bu programın şirket içerisinde yeniden kodlanıp dışarıdan çıkan lisans maliyetinden kurtarılması için çalışma yapıldı.
+        Şirket web sayfaları güncellemeleri takip edildi. Bilgi işlem envanteri için Web Uygulaması PHP framework'ü olan Codeigniter üzerinde yazdım ve aktif kullandım. Son kullanıcılardan gelen destek
+        talepleri için ticket sistemi yine Codeigniter altyapısı kullanarak yazıldı ve kullanıma açıldı. Şirket içi ve şirket dışında çalışan personelin iletişim konusunda yeni bir kanala yönlendirerek
+        Microsoft Teams'i bütün kullanıcıların aktif olarak kullanması sağlandı. Her departman için kanallar açıldı kullanıcılar kendi departmanı ile iletişime geçebilecek hale getirildi.
+        Temel ihtiyaçların giderilmesi sonrasında şirket altyapısı geliştirilmeye devam edildi.
+    - role: Bilgi İşlem Uzman Yardımcısı
+      time: 08.2016 - 09.2018 
+      company: İntercombi Transport & Logistics
+      tag: Sürekli / Tam zamanlı
+      location: İstanbul
+      details: |
+        Donanım ve yazılım alımlarına teknik destek sağlamak. Satın alınan donanımların ve yazılımların teslim alma işlemlerini
+        kontrol etmek. Lisanslama faaliyetlerinin takibini yapmak. İşletmenin envanterindeki donanım ve yazılımlar ile ilgili
+        periyodik takipleri gerçekleştirmek. Fiziksel kurulumlarını yapmak/ yapılmasını sağlamak. Kurulum öncesi hazırlık
+        yapmak. Donanımların fiziksel kurulumlarının gerçekleşmesini sağlamak. Ağ donanımlarını ve sunucu sistemlerini
+        yapılandırmak. Aktif ağ donanımlarını yapılandırmak,Kablosuz ağ güvenliğini sağlamak. Sunucu işletim sistemlerinin
+        kurulumlarını yapmak. Sunucu servislerinin yapılandırılmasını değerlendirmek, Dizin hizmetini yapılandırmak. Periyodik
+        yedeklerin alımı. Yazıcı,tarayıcı gibi çevre bileşenlerinin temini,kurulumlarını ve bakımlarını yapmak. Kişisel bilgisayar
+        sistemlerini ve çevre birimlerini yapılandırmak. Kişisel bilgisayarların ilk çalıştırmasını yapmak ve işletim sistemini
+        yüklemek. Donanım sürücülerini yükletmek,Ağ ve internet bağlantısını kurmak. Ortak kullanıma sunulacak çevre
+        birimlerini yapılandırmak. Sistemlerin bakımını yaptırmak.BT sistemlerinin harici ve dahili bileşenlerini değiştirmek.
+        İşletme içi kullanıcılara BT desteği verilmesini sağlamak.
+
+    - role: Bilgi İşlem Sorumlusu
+      time: 12.2014 - 05.2016
+      company: Yıldız Mekatronik Sistemleri
+      tag: Sürekli / Tam zamanlı
+      location: İstanbul
+      details: |
+        Şirket içi ağ sistemleri yeni nesil cihazlar ile yenilendi. Güvenlik duvarı kullanılmayan firmada Cyberoam Firewall ile ağ güvenli hale getirildi. 
+        Şirket verileri kullanıcı bilgisayarlarından toplanarak, Vmware Esxi üzerinde oluşturulan File Server üzerinde paylaşım ortamı oluşturuldu. 
+        Eski tip telefon santrali IP Telefon altyapısına taşındı. Web sayfası tekrardan tasarlanarak yayınlandı. Loglama yapısı mail üzerinden izlenecek şekilde her cihaz ve sunucudan gelen verilerin
+        tek bir yerden takip edilebilmesi sağlandı. Yedekleme altyapısı olarak Teyp ve QNAP kullanılarak Acronis ile yedekler alındı. Otomasyonlu yangın sistemi kurulumu için eğitim alındı.
+        Şirketin RES projesine dahil olması ile birlikte, Çeşitli zayıf akım projeleri yapma fırsatı yakaladım. 4 RES Lokasyonunda Yangın algılama sistemi olarak Siemes Cerberus kullanıldı
+        Kamera ve Alarm sistemlerinin kurulumunda destek verdim. RES kontrol binalarında bulunan ağ yapısı, fiber altyapısı, sunucular ve IP Telefon kurulumları yapıldı. 
+        Projeler Borusan ENBW santrlleri için yapıldı.
+
+    - role: Grafiker
+      time: 09.2007 - 08.2008
+      company: Setko Düğme San Ve Tic.Ltd.Şti.
+      tag: Sürekli / Tam zamanlı
+      location: İstanbul
+      details: |
+        Lazer CNC makinelerin düğme üzerine yaptığı işlemelerin çizimleri Autocad kullanılarak hazırlandıktan sonra, makineye ağ üzerinden gönderilerek üretimi yapılması sağlandı.
+
+    - role: Bilgi İşlem Stajyeri
+      time: 09.2006 - 06.2007 
+      company: Mercedes Benz-Türk
+      tag: Stajyer
+      location: İstanbul(Avr.)
+      details: |
+        Mercedes Benz-Türk Firması Türkiye ve dünya'nın önde gelen otomotiv firması konumunda.Hadımköy de bulunan
+        Pazarlama Merkezinde Bilgi işlem departmanında stajyer görevini üstlendim.Staj süresi boyunca çeşitli sorumluluklar alarak staj bitiminde yaz tatilinde de çalışmaya devam ettim.
+        + Teyp Backup kontrolü
+        + Microsoft Exchange Mail kontrolü
+        + Son kullanıcı desteği
+
+projects:
+  display: true
+  title: PROJELER
+  intro: |
+    This is all the projects I'm involved in.
+
+  items:
+    - name: KUZEY İSTANBUL LOKASYONLAR ARASI BALANTI / SD-WAN IP SEC İLE CLOUD FIREWALL BAGLANTISI VE FIZIKSEL SUNUCULARIN CLOUD AKTARIMI(Görsel Linki)
+      link: https://rifatduru7.github.io/blog/assets/images/kuzeymap.png
+      details: |
+        Firmanın Co Location çalışan 3 fiziksel sunucusundaki 11 Sanal sunucu, S3 Cloud üzerine taşındı. SD-WAN bağlantısı yapılmadan önce SSL VPN ile kullanıcılar ağa dahil ediliyordu.
+        Kuzey İstanbul’ un çok şubeli(lokasyonlu) yapısına en güvenli çözüm olarak SD-WAN bağlantısı ile lokasyonlar ve bulut arasına bağlantı sağlamak oldu.
+        Temelde,Kuzey İstanbul gibi birden çok şubesi bulunan işletmelerin kullandığı SD WAN, aynı ağ sistemi üzerinden tüm şubeleri birbirine bağlayarak sanki 
+        tek lokasyona sahiplermiş gibi veri paylaşımı yapmalarına imkan sağladı. Geleneksel yapıda çok şubeli bir işletmenin her şubesinde 
+        bulunan routerların yönetimi tek tek yapılıyor. Bu sebeple halihazırda bağlantısında sorun olan routerlarınızı bulmak isterseniz önce sorunun hangi 
+        routerda olduğunu keşfetmeniz, daha sonra da sorunu çözmek için yine tek tek işlem yapmamız gerekiyordu. Geleneksel yapıda uzaktan müdahale imkanı 
+        bulunmasına rağmen şube sayısı çok olan bir işletme söz konusu olduğunda bu sorun yönetimi, operasyonel süreçlerinizi sekteye uğratabiliyor. 
+        SD WAN teknolojisi öncelikle sorunlarınızı tespit ederken kullanıcısına çok daha pratik bir listeleme yöntemi sunuyor ve sorunları tek bir merkezden, 
+        tek bir arayüzden kolayca çözmenize imkan sağladı. Bu, işletmeye büyük bir kolaylık sunarken hata payını da hayli azalttı. Görselde görüldüğü şekilde
+        ana yapı cloud üzerinde inşa edildiği için SDWan en güvenli ve hızlı çözüm oldu.
+
+
+    - name: CPM YAZILIM FİZİKSEL SUNUCU CLOUD AKTARIMI(Görsel Linki)
+      link: https://rifatduru7.github.io/blog/assets/images/cloudlist.png
+      details: |
+        Fiziksel 3 Ad. Rack tipi ve 2 Ad. Tower sunucu Cloud'a taşındı.
+
+    - name: GOOGLE CLOUD ÜZERİNDE CPANEL, CYBER PANEL ve CLOUD STORAGE (Görsel Linki)
+      link: https://rifatduru7.github.io/blog/assets/images/google_cloud.pdf
+      details: |
+        Google Cloud üzerine CPANEL ve CYBER PANEL web servarları kuruldu. Müşterilerimizin web sayfaları ve web uygulamaları bu paneller üzerinden yönetilir duruma getirildi.
+        Cloudflare üzerinde domain yönetimi yapılmaktadır. Google CLoud üzerinde SQL ve Server IMAJ yedeklerimiz de storage alanlarında tutulabilmesini sağlayacak bucket alanlar oluşturuldu.
+
+    - name: GOOGLE CLOUD ÜZERİNDE CPANEL, CYBER PANEL ve CLOUD STORAGE (Görsel Linki)
+      link: https://rifatduru7.github.io/blog/assets/images/google_cloud.pdf
+      details: |
+        Google Cloud üzerine CPANEL ve CYBER PANEL web sunucuları kuruldu. Müşterilerimizin web sayfaları ve web uygulamaları bu paneller üzerinden yönetilir duruma getirildi.
+        Cloudflare üzerinde domain yönetimi yapılmaktadır. Google CLoud üzerinde SQL ve Server IMAJ yedeklerimiz de storage alanlarında tutulabilmesini sağlayacak bucket alanlar oluşturuldu.
+
+    - name: LOGLAMA VE MONITORING (Görsel Linki)
+      link: https://rifatduru7.github.io/blog/assets/images/wazuh_zabbix.pdf
+      details: |
+        Bir çok sunucu farklı lokasyonlarda bulunduğundan dolayı tek bir noktadan sunuculardan gelecek logları takip edebilmek için Elastic Search + Kibana kullanan Wazuh kuruldu. Sunuculara Agent
+        ile bağlanarak anlık olarak gelen eventları anlamlı bir şekilde görselleştirebilir ve kritik durum seviyesine göre uyarı mailleri ile yöneticiyi uyarabilir hale getirildi. Elastic Search ile
+        Firmalara özel raporlaramalar hazırlayabilme kabiliyetine sahip oldum. Belli periyotlarda aldığım raporlar ile sunucu durumlarını check ederek her bir sunucuya bağlanıp kontrol etmek için zaman ayırmama gerek kalmadı.
+        Zabbix ile Sunucular, Yazıcılar, Firewall, Network cihazlarından yakalanan her bir log zabbix ile montitoring edebilir hale getirdim. Kritik durumlarda mail ile aldığım uyarılarda problem oluşmadan müdehale edebilme çevikliğine sahip oldum.
+
+    - name: DOF Robotic ISO 27001 ve Turquality Döküman Hazırlama
+      link: 
+      details: |
+        Dof Robotic firması için Dijitalleşme Yönetimi, ISO 27001 ve Turquality projelerinde şirketin Bilgi Teknolojileri Departmanı Dökümanları oluşturuldu. Dijitallesme Strateji Dokumanları, Performans Olcutleri, Uygulama Ve Alt Yapi Dokumani alanlarında özel çalışma yapılarak bütün altyapı dökümente edilebilir hale getirildi.
+        Bütün süreçler sertifika alınana kadar takip edildi.
+skills:
+  display: true
+  title: YETENEKLER
+  details: |
+    Yazılım Dilleri, Programlar ve Cihazlar Hakkında Seviye :
+
+  levels:
+    - name: PHP
+      level: 90
+    - name: Codeigniter
+      level: 90
+    - name: SQL
+      level: 70
+    - name: Vue JS
+      level: 85
+    - name: ASP.net
+      level: 80
+    - name: Kibana
+      level: 80
+    - name: Elastic Search
+      level: 80
+    - name: Wazuh
+      level: 95
+    - name: Grafana
+      level: 95
+    - name: Zabbix
+      level: 95
+    - name: Windows Server
+      level: 95
+    - name: Centos
+      level: 95
+    - name: Ubuntu Server
+      level: 95
+    - name: AWS
+      level: 85
+    - name: Google Cloud
+      level: 85
+    - name: Azure
+      level: 85
+    - name: Docker
+      level: 90
+    - name: Kubernetes
+      level: 60
+    - name: Flutter/Dart
+      level: 75
+    - name: Figma
+      level: 95
+    - name: Fortigate
+      level: 95
+    - name: ZYXEL Firewall
+      level: 95
+    - name: Sophos Firewall
+      level: 90
+    - name: Palo Alto
+      level: 80
+
+     
+
+education:
+  display: true
+  title: EGITIM
+  items:
+    - university: Mehmet Akif Ersoy Üniversitesi
+      time: 2008 - 2011
+      major: Bilgisayar ve Teknoloji Yüksekokulu
+      degree: Bilgisayar Teknolojisi ve Programlama (MYO)
+      details: |
+
+    - university: Borusan Asım Kocabıyık
+      time: 2004 - 2007
+      major: Anadolu Meslek Lisesi
+      degree: Bilgisayar Donanım
+      details: |
+
+certificates:
+  display: true
+  title: SERTIFIKALAR
+  items:
+    - name: Bilişim ve Kariyer Günleri
+      authority: Akademi Isparta
+      time: 2010
+      link:
+      details: |
+        Bilişim Günleri olarak düzenlenen seminerde yeni teknojiler ve kariyer tespiti hakkında tartışıldı
+    - name: ASP.Net 3.5 ve Silverlight 4.0
+      authority: Microsoft  
+      time: 12.2010
+      link: 
+      details: |
+        Microsoft'un düzenlediği seminer yeni bir teknoloji olan silverlight ağırlık olarak yürütüldü 
+    - name: Bilişim - Microsoft Sertifikasyon programları - MCSA Microsoft Certified Systems Administrators
+      authority: Kariyer Mimarlığı
+      time: 05.2017
+      link: 
+      details: |
+        Başarı Sertifikası Sertifika ID :201759125-81-2
+    - name: Bilişim - Microsoft Sertifikasyon programları -MCSA Microsoft Certified Systems Administrators
+      authority: Kariyer Mimarlığı
+      time: 05.2017
+      link: 
+      details: |
+        Sertifika ID : 201753180-96-2
+    - name: Sağlık-Tıp - İlk Yardım Eğitim Sertifikası - İlk Yardım Eğitim Sertifikası
+      authority: Bir İlkyardım Eğitim Merkezi
+      time: 06.2017
+      link: 
+      details: |
+        Belge No : TEMEL/2014/68750/1314
+    - name: Bilişim - Cisco Sertifikasyon programları - CCNA - Cisco Certified Networking Associate
+      authority: Kariyer Mimarlığı
+      time: 07.2017
+      link: 
+      details: |
+        Sertifika ID : 201741192-34-2
+
+languages:
+  display: true
+  title: DIL
+  items:
+    - idiom: English
+      level: Orta
+
+interests:
+  display: true
+  title: ILGI ALANLARI
+  items:
+    - item: Müzik Litaratürü Takip Etmek / Konser
+      link:
+    - item: Makale Okumak, Podcast Dinlemek, Notlar almak
+      link:
+
+
+footer:
+  display: true
+
+close: >
+  Sorry, my resume has been hidden.
