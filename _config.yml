@@ -12,7 +12,7 @@ sass:
 lang: en                    # html lang
 open: true                  # open or close your site
 date_format: "%d-%m-%Y"     # date format
-theme_color: "2596be"      # your favorite theme color
+theme_color: "#2596be"      # your favorite theme color
 allow_search_engines: true  # allow search engines indexing your resume
 analytics:
   google:                   # your google analytics
