@@ -132,7 +132,6 @@ projects:
   display: true
   title: PROJELER
   intro: |
-    This is all the projects I'm involved in.
 
   items:
     - name: KUZEY İSTANBUL LOKASYONLAR ARASI BALANTI / SD-WAN IP SEC İLE CLOUD FIREWALL BAGLANTISI VE FIZIKSEL SUNUCULARIN CLOUD AKTARIMI(Görsel Linki)
