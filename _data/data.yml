@@ -135,7 +135,7 @@ projects:
 
   items:
     - name: KUZEY İSTANBUL LOKASYONLAR ARASI BALANTI / SD-WAN IP SEC İLE CLOUD FIREWALL BAGLANTISI VE FIZIKSEL SUNUCULARIN CLOUD AKTARIMI(Görsel Linki)
-      link: https://rdcv.rifatduru.com/assets/images/kuzeymap.png
+      link: https://cv.rifatduru.com.tr/assets/images/kuzeymap.png
       details: |
         Firmanın Co Location çalışan 3 fiziksel sunucusundaki 11 Sanal sunucu, S3 Cloud üzerine taşındı. SD-WAN bağlantısı yapılmadan önce SSL VPN ile kullanıcılar ağa dahil ediliyordu.
         Kuzey İstanbul’ un çok şubeli(lokasyonlu) yapısına en güvenli çözüm olarak SD-WAN bağlantısı ile lokasyonlar ve bulut arasına bağlantı sağlamak oldu.
@@ -150,24 +150,24 @@ projects:
 
 
     - name: CPM YAZILIM FİZİKSEL SUNUCU CLOUD AKTARIMI(Görsel Linki)
-      link: https://rdcv.rifatduru.com/assets/images/cloudlist.png
+      link: https://cv.rifatduru.com.tr/assets/images/cloudlist.png
       details: |
         Fiziksel 3 Ad. Rack tipi ve 2 Ad. Tower sunucu Cloud'a taşındı.
 
     - name: GOOGLE CLOUD ÜZERİNDE CPANEL, CYBER PANEL ve CLOUD STORAGE (Görsel Linki)
-      link: https://rdcv.rifatduru.com/assets/images/google_cloud.pdf
+      link: https://cv.rifatduru.com.tr/assets/images/google_cloud.pdf
       details: |
         Google Cloud üzerine CPANEL ve CYBER PANEL web servarları kuruldu. Müşterilerimizin web sayfaları ve web uygulamaları bu paneller üzerinden yönetilir duruma getirildi.
         Cloudflare üzerinde domain yönetimi yapılmaktadır. Google CLoud üzerinde SQL ve Server IMAJ yedeklerimiz de storage alanlarında tutulabilmesini sağlayacak bucket alanlar oluşturuldu.
 
     - name: GOOGLE CLOUD ÜZERİNDE CPANEL, CYBER PANEL ve CLOUD STORAGE (Görsel Linki)
-      link: https://rdcv.rifatduru.com/assets/images/google_cloud.pdf
+      link: https://cv.rifatduru.com.tr/assets/images/google_cloud.pdf
       details: |
         Google Cloud üzerine CPANEL ve CYBER PANEL web sunucuları kuruldu. Müşterilerimizin web sayfaları ve web uygulamaları bu paneller üzerinden yönetilir duruma getirildi.
         Cloudflare üzerinde domain yönetimi yapılmaktadır. Google CLoud üzerinde SQL ve Server IMAJ yedeklerimiz de storage alanlarında tutulabilmesini sağlayacak bucket alanlar oluşturuldu.
 
     - name: LOGLAMA VE MONITORING (Görsel Linki)
-      link: https://rdcv.rifatduru.com/assets/images/wazuh_zabbix.pdf
+      link: https://cv.rifatduru.com.tr/assets/images/wazuh_zabbix.pdf
       details: |
         Bir çok sunucu farklı lokasyonlarda bulunduğundan dolayı tek bir noktadan sunuculardan gelecek logları takip edebilmek için Elastic Search + Kibana kullanan Wazuh kuruldu. Sunuculara Agent
         ile bağlanarak anlık olarak gelen eventları anlamlı bir şekilde görselleştirebilir ve kritik durum seviyesine göre uyarı mailleri ile yöneticiyi uyarabilir hale getirildi. Elastic Search ile
